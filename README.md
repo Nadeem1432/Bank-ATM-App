@@ -1,2 +1,2 @@
 # Bank-ATM-App
-It's a real time transaction system, update balance on realtime while withdraw or deposit via bank or ATM. Here I used rabbitmq for synchronized both databases.
+Bank ATM App is a real-time transaction system that updates the balance in real time when withdrawing or depositing via a bank or ATM. I used RabbitMQ to synchronize both databases.
