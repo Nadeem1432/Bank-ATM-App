@@ -1,0 +1,11 @@
+step 1   -   create a venv 
+step 2   -   install requirements
+step 3   -   run the runserver bank application on port 8000
+step 4   -   run the runserver atm application on port 8001
+
+step 5   -   run the bank consumer with the following command-
+	python manager.py run_consumer
+step 6   -   run the atm consumer with the following command-
+	python manager.py run_consumer
+
+step 7   -   Extract the json API collect and perform account create/login/depost/withdraw
